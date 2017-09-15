@@ -1,0 +1,8 @@
+[package]
+name = "termi"
+version = "0.1.0"
+authors = ["selvacodes <selvaganapathy@outlook.in>"]
+
+[dependencies]
+ansi_term = "*"
+chrono ="*"
